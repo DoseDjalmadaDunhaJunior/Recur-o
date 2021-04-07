@@ -1,0 +1,3 @@
+/media/jose/09BBDA931A86D9AA/apagar/Recursao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/jose/09BBDA931A86D9AA/apagar/Recursao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/jose/09BBDA931A86D9AA/apagar/Recursao/cmake-build-debug/CMakeFiles/Recursao.dir
